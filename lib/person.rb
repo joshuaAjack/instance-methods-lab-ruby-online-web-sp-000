@@ -10,4 +10,3 @@ class Person
   ada.talk 
   ada.walk 
 end 
-end 
