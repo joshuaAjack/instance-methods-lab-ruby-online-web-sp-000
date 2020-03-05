@@ -6,3 +6,8 @@ class Person
     print "The Person is walking"
   end 
   
+  ada = Person.new 
+  ada.talk 
+  ada.walk 
+end 
+end 
